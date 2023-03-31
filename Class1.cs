@@ -1,6 +1,6 @@
 ﻿/*Monil Patel
 Student Id:- 8775412
-Assignment - 3*/
+Assignment - 3 - Selenium Tests*/
 
 using System;
 using System.Collections;
